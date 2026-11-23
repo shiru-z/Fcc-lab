@@ -43,3 +43,6 @@ function isEmpty(queue) {
   }
 }
 
+let s = initQueue();
+console.log(s);
+console.log(size(s));
